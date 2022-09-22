@@ -1,0 +1,17 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&family=Poppins:wght@200&display=swap');
+
+#reciclaje p{
+    font-size: 30px;
+    font-family: 'Poppins', sans-serif;
+    margin: 40px 40px 50px 30px;
+}
+
+h2 {
+    margin: 100px 40px 50px 30px;
+    font-size: 75px;
+    width: 100%;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
